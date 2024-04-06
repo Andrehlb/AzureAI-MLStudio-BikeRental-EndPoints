@@ -15,6 +15,15 @@ Welcome to the **AzureAI MLStudio BikeRental Endpoints** repository! In this pro
 5. **Contributing**: Interested in contributing? Find out how you can get involved.
 6. **License**: Review the licensing terms for this project.
 
+## Data Export and Git Integration
+
+We exported data from Azure AI Studio in CSV and JSONL formats. The exported files were saved locally and then added to this Git repository. Here are the steps we followed:
+
+1. Navigate to the repository directory in the terminal: `cd /d/reposGitHub/AzureAI-MLStudio-BikeRental-EndPoints`
+2. Add the files to Git: `git add results_oxygen_bike-automl/results-mslearn-yellow_oxygen_bike-automl.csv` and `git add results_oxygen_bike-automl/results-mslearn-yellow_oxygen_bike-automl.jsonl`
+3. Commit the changes: `git commit -m "Add exported data files from Machine Learning Studio Laboratorioai900>Jobs>mslearn-yellow_oxygen_bike-rental"`
+4. Push the changes to GitHub: `git push`
+
 Feel free to explore our code, experiment with the endpoints, and contribute to our bike rental prediction journey! 🚴‍♂️📊
 
 ---
