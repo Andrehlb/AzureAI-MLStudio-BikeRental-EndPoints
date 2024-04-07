@@ -1,0 +1,12 @@
+/myenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info
+.env
+db.sqlite3
+*.sqlite3
+*.log
+.vscode/
