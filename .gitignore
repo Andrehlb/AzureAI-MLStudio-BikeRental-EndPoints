@@ -10,3 +10,7 @@ db.sqlite3
 *.sqlite3
 *.log
 .vscode/
+Dockerfile
+conda_dependencies.yaml
+results_oxygen_bike-automl/bikerental-amount.py
+results_oxygen_bike-automl/mslearnyellowox2.zip
